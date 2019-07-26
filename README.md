@@ -28,7 +28,7 @@ Voters will cast their vote through the mobile application and then comes the ro
       Every system will act as Nodes and in Blockchain every Nodes on the network participate to ensure that all copies of the data distributed across the network are the same. This will ensure that each vote is counted and not changed and as the data is digital the counting process will be quick enough to provide the result in few minutes. 
     </p>
   </li>
-   <li><p> In the registration part for new user a new chain will be generated to store the data and provide safely to ECI without altering any data and verification can verification of these eligible voter will be done by Aadhar card data similar like face identification or finger print(As we are talking in Indian context).</p>  
+   <li><p> In the registration part for new user a new chain will be generated to store the data and provide safely to ECI without altering any data and verification of these eligible voter will be done by Aadhar card data similar like face identification or finger print(As we are talking in Indian context).</p>  
     
   </ol>
 
