@@ -41,7 +41,12 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
 
 <h2>What technology are we using?</h2>
 <p>
-  
+  <ul>
+    <li><strong>Microsoft Azure Blockchain</strong></li> 
+     <li> Github</li> 
+     <li> </li> 
+     <li></li> 
+  </ul>
   
 
 </p>
