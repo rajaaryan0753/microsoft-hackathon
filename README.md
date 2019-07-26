@@ -18,16 +18,28 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
 
 <h2>How does it work?</h2>
 <p>
-  Basically there will be a web based login application which will allow the voters to vote(for testing  purpose we will using mailchimp to send respective credentials to voters when they register.Later in future considering the Indian election scenario for making the process of voting more secure <strong>Aadhar card</strong> can be come into play which will check or validate through finger print or retina based verification.)
+Voters will cast their vote through the web application and then comes the role of our Blockchain application where a  Blockcahin network will be created among Election Commission of India(ECI), Governament officials and  National Media  computer systems and from the property of Blockchain It will ensure the following things listed below:
 </p>
+  <ol>
+  <li> 
+    <p>
+      Every system will act as Nodes and in Blockchain every Nodes on the network participate to ensure that all copies of the data distributed across the network are the same. This will ensure that each vote is counted and not changed. 
+    </p>
+  </li>
+    
+    
+  </ol>
+
 
 
 <h2>How users can get started with the project?</h2>
 <p>
+  Basically there will be a web based login application which will allow the voters to vote(for testing  purpose we will using mailchimp to send respective credentials to voters when they register.Later in future considering the Indian election scenario for making the process of voting more secure <strong>Aadhar card</strong> can be come into play which will check or validate through finger print or retina based verification.)
+</p>
   
   
 
-</p>
+
 
 <h2>What dataset(s) are we using?</h2>
 <p> Below are the following government dataset available on  <a href="https://data.gov.in/">Open Government Data Platform India </a>which we are planning to use.
