@@ -18,9 +18,7 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
 
 <h2>How does it work?</h2>
 <p>
-  
-  
-
+  Basically there will be a web based login application which will allow the voters to vote(for testing  purpose we will using mailchimp to send respective credentials to voters when they register.Later in future considering the Indian election scenario for making the process of voting more secure <strong>Aadhar card</strong> can be come into play which will check or validate through finger print or retina based verification.)
 </p>
 
 
