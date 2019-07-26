@@ -32,9 +32,7 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
 </p>
 
 <h2>What dataset(s) are we using?</h2>
-<p>
-  
-  
+<p> Below are the following government dataset available on  <a href="https://data.gov.in/">Open Government Data Platform India </a>which we are planning to use.
 
 </p>
 
@@ -44,8 +42,8 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
   <ul>
     <li><strong>Microsoft Azure Blockchain</strong></li> 
      <li> Github</li> 
-     <li> </li> 
-     <li></li> 
+    <li> Mailchimp <en>(for testing purpose of client side application) </en></li> 
+     
   </ul>
   
 
