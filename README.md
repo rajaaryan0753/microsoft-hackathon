@@ -7,10 +7,10 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
   
   <ul>
     <li> Users can log into their accounts using their unique e-voter IDs.
-    <li> A registration plaform will be provided for new eligible users who are not in governemnt list.
+    <li> A registration plaform will be provided forusers who have newly come of legal voting age.
     <li> Users can "open" the ballot box in real time, and observe the number of votes each candidate has secured.
     <li> Users can observe and modify their votes at any time before the election ends, and hence, be able to know for sure that the vote they cast reaches the candidate it was meant for. This will afford the election process a transparency and flexibility hitherto impossible with conventional, physical voting schemes. 
-    <li> A platform will be made available for people to voice their opinions anonymously which will also help the candidate to know his consitutency in a better way. Leveraging the power of machine translation, these opinions will then be made available in local languages for the benefit of people less well-versed with English and/or Hindi.
+    <li> A platform will be made available for people to voice their opinions anonymously, while helping the candidates get appropriate feedback from their respective constituencies. Leveraging the power of machine translation, these opinions will then be made available in local languages for the benefit of people less well-versed with English and/or Hindi.
     <li> As soon as the election ends, the app will compute and display the results. This will be a huge improvement over the current waiting time between the end of an election and the time when the results are declared.
       
   </ul>
