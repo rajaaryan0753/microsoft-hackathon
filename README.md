@@ -28,7 +28,7 @@ Voters will cast their vote through the mobile application, which will have the 
       Every system will act as a Node. The Nodes, acting together to validate any new information added to the Blockchain, will ensure that any new vote once recorded, cannot be tempered with by a malicious entity. 
     </p>
   </li>
-   <li><p>While registering a new user, a new chain will be generated to store the data and provide it safely to ECI without altering any of the same; and authentication of the voter will be done provisionally via Aadhar card details (fingerprint or iris authentication).</p>  
+   <li><p>While registering a new user, a new chain will be generated to store the data and provide it safely to ECI without altering any of the same; and authentication of the voter will be done provisionally via <strong>Aadhar card</strong> details (fingerprint or iris authentication).</p>  
     
   </ol>
 
@@ -38,6 +38,10 @@ Voters will cast their vote through the mobile application, which will have the 
 <p>
   At the completion of our project, a mobile-based application will be deployed, which will allow voters to login and vote in favour of their favorite candidate(s) (for testing purposes, we will be using mailchimp to send respective credentials to voters when they register. In the future, however, towards the end-goal of securing the process of voting during Indian election, <strong>Aadhar card</strong> can be considered as a potential candidate for user validation via fingerprint or iris authentication. The problem of securing the unique ID of a user - something that will be assigned and maintained off the Blockchain, will have to be dealt with separately once the rest or the application has been developed.)
 </p>
+<p>
+  Users will have access to a wall on which they can post there problems & queries and to avoid spamming on this wall we will also limit the number of post per user.
+ </p>
+ 
   
 <h2>What technology are we using?</h2>
 <p>
