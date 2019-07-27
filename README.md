@@ -20,15 +20,15 @@ As part of our participation in Microsoft codefundo++ 2019, we are planning to b
 
 <h2>How does it work?</h2>
 <p>
-Voters will cast their vote through the mobile application and then comes the role of  Blockchain application where a  Blockcahin network will be created among Election Commission of India(ECI), Governament officials and  National Media  computer systems and from the property of Blockchain which will ensure the following things listed below:
+Voters will cast their vote through the mobile application, which will have the Blockchain ledger running in the background. This ledger will be created among Election Commission of India(ECI), Governament officials and  National Media  computer systems:
 </p>
   <ol>
   <li> 
     <p>
-      Every system will act as Nodes and in Blockchain every Nodes on the network participate to ensure that all copies of the data distributed across the network are the same. This will ensure that each vote is counted and not changed and as the data is digital the counting process will be quick enough to provide the result in few minutes. 
+      Every system will act as a Node. The Nodes, acting together to validate any new information added to the Blockchain, will ensure that any new vote once recorded, cannot be tempered with by a malicious entity. 
     </p>
   </li>
-   <li><p> In the registration part for new user a new chain will be generated to store the data and provide safely to ECI without altering any data and verification of these eligible voter will be done by Aadhar card data similar like face identification or finger print(As we are talking in Indian context).</p>  
+   <li><p>While registering a new user, a new chain will be generated to store the data and provide it safely to ECI without altering any of the same; and authentication of the voter will be done provisionally via Aadhar card details (fingerprint or iris authentication).</p>  
     
   </ol>
 
@@ -36,7 +36,7 @@ Voters will cast their vote through the mobile application and then comes the ro
 
 <h2>How users can get started with the project?</h2>
 <p>
-  Basically there will be a mobile based login application which will allow the voters to vote(for testing  purpose we will using mailchimp to send respective credentials to voters when they register.Later in future considering the Indian election scenario for making the process of voting more secure <strong>Aadhar card</strong> can be come into play which will check or validate through finger print or retina based verification.These extra feature will work on the same basis depending upon thumb lock and face lock used in the mobile.)
+  At the completion of our project, a mobile-based application will be deployed, which will allow voters to login and vote in favour of their favorite candidate(s) (for testing purposes, we will be using mailchimp to send respective credentials to voters when they register. In the future, however, towards the end-goal of securing the process of voting during Indian election, <strong>Aadhar card</strong> can be considered as a potential candidate for user validation via fingerprint or iris authentication. The problem of securing the unique ID of a user - something that will be assigned and maintained off the Blockchain, will have to be dealt with separately once the rest or the application has been developed.)
 </p>
   
   
@@ -44,17 +44,17 @@ Voters will cast their vote through the mobile application and then comes the ro
 
 
 <h2>What dataset(s) are we using?</h2>
-<p> Below are the following government dataset available on  <a href="https://data.gov.in/">Open Government Data Platform India </a>which we are planning to use.
-
-</p>
+<p>We are planning to use the data available at <a href="https://data.gov.in/">Open Government Data Platform India </a> for the the development of certain features of our application.</p>
 
 
 <h2>What technology are we using?</h2>
 <p>
   <ul>
-    <li><strong>Microsoft Azure Blockchain</strong></li> 
-     <li> Github</li> 
-    <li> Mailchimp <en>(for testing purpose of client side application) </en></li> 
+    <li><strong>Microsoft Azure Blockchain</strong> as Cloud Computing Platform</li> 
+    <li><strong>Github</strong> for version control</li> 
+    <li><strong>Mailchimp</strong> for the purpose of testing the client side application</li>
+    <li><strong>Android Studio</strong> for development of the Android App, and</li>
+    <li>other technologies as and when the need for the same arises.
      
   </ul>
   
