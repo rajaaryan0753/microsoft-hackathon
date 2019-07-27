@@ -39,14 +39,6 @@ Voters will cast their vote through the mobile application, which will have the 
   At the completion of our project, a mobile-based application will be deployed, which will allow voters to login and vote in favour of their favorite candidate(s) (for testing purposes, we will be using mailchimp to send respective credentials to voters when they register. In the future, however, towards the end-goal of securing the process of voting during Indian election, <strong>Aadhar card</strong> can be considered as a potential candidate for user validation via fingerprint or iris authentication. The problem of securing the unique ID of a user - something that will be assigned and maintained off the Blockchain, will have to be dealt with separately once the rest or the application has been developed.)
 </p>
   
-  
-
-
-
-<h2>What dataset(s) are we using?</h2>
-<p>We are planning to use the data available at <a href="https://data.gov.in/">Open Government Data Platform India </a> for the the development of certain features of our application.</p>
-
-
 <h2>What technology are we using?</h2>
 <p>
   <ul>
